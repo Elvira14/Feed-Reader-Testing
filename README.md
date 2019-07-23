@@ -1,5 +1,5 @@
-# Feed-Reader-Testing
-From Udacity
+# Feed-Reader-Testing From Udacity
+
 In this project I'm using Jasmine testing library to test a sertain functions. 
 In this test you will see how to write the suites and specs and how to perfome asynchronous code as well.
 
